@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb2366c5d53ce924bb0fa64c05307007, type: 3}
+  m_Name: GameAssets
+  m_EditorClassIdentifier: Assembly-CSharp::EscapeTheLava.GameAssets
+  tile: {fileID: 21300000, guid: 36a60ee05f9fb2f4b9954296b11ff6e0, type: 3}
+  tileFace: {fileID: 21300000, guid: fd5e9ae5622c97a479968eb33bcdd4e8, type: 3}
+  diamond: {fileID: 21300000, guid: 887f6f2b086f97a4b9cd2fff69d0be4c, type: 3}
+  heart: {fileID: 21300000, guid: 3033d78fa00508642a160dbc2c12af57, type: 3}
+  glow: {fileID: 21300000, guid: b2f37362d2a6741479f12a07b882014d, type: 3}
+  vignette: {fileID: 21300000, guid: 66f6eb86714cf3742b1e1bf9950c7671, type: 3}
+  ring: {fileID: 21300000, guid: 2a7cd09dc8805d14c922062f42e28b3d, type: 3}
+  sparkle: {fileID: 21300000, guid: 4a05c700b8af88847a28cf6bc1aa2873, type: 3}
+  solid: {fileID: 21300000, guid: 8521045b9109e784e8fc7863e51f67d0, type: 3}
+  panel: {fileID: 21300000, guid: 05f2d66a601a8a246b91371c3bc8b146, type: 3}
+  lavaSurface: {fileID: 21300000, guid: 7be3f9bb98daa914f9063c1da03bfdae, type: 3}
+  spriteUnlit: {fileID: 2100000, guid: d4437e864317bc14d8cc8f6f46ca8d4b, type: 2}
+  spriteAdditive: {fileID: 2100000, guid: e709c6618780ed740a1afb3568a2961b, type: 2}
+  sfxCollect: {fileID: 8300000, guid: 789ad209f8d691847b9285afc0981c0e, type: 3}
+  sfxDamage: {fileID: 8300000, guid: 4de9a0f4a9411b24d98c1090e89658b1, type: 3}
+  sfxTick: {fileID: 8300000, guid: 594e1d855e132f24db2bc974d26e60e5, type: 3}
+  sfxWin: {fileID: 8300000, guid: a7abf581d066d57499c5f36bda046f50, type: 3}
+  sfxLose: {fileID: 8300000, guid: b72ce38198fc50d40bef069b7b955b04, type: 3}
+  sfxUi: {fileID: 8300000, guid: f942d6f01cb7433468dcfde9fdb94459, type: 3}
+  sfxWhoosh: {fileID: 8300000, guid: 63c3d36d28f2d764cac3ad159db8a2c1, type: 3}
+  font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
